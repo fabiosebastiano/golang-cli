@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "studybuddy",
+            "database": "${workspaceFolder:studybuddy}/studybuddy.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
